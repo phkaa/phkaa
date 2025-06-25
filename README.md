@@ -1,5 +1,4 @@
-## 반갑습니다 :laughing:
-언젠간 다 해결되겠지..
+## :laughing: 반갑습니다 
 
 ![phkaa GitHub stats](https://github-readme-stats.vercel.app/api?username=phkaa&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phkaa&layout=compact)
