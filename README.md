@@ -17,15 +17,15 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Mybatis](https://img.shields.io/badge/Mybatis-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![Jpa](https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=realm&logoColor=white)
-![KT U Cloud](https://img.shields.io/badge/KTUCloud-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-39477F?style=for-the-badge&logo=mybatis&logoColor=white)
+![Jpa](https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
+![KT U Cloud](https://img.shields.io/badge/KTUCloud-F06A6A?style=for-the-badge&logo=ktucloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=asana&logoColor=white)
-![NCP](https://img.shields.io/badge/NCP-2DB400?style=for-the-badge&logo=asana&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=gcp&logoColor=white)
+![NCP](https://img.shields.io/badge/NCP-2DB400?style=for-the-badge&logo=ncp&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Yona](https://img.shields.io/badge/Yona-FF5722?style=for-the-badge&logo=asana&logoColor=white)
+![Yona](https://img.shields.io/badge/Yona-FF5722?style=for-the-badge&logo=yona&logoColor=white)
 
 <!--
 **phkaa/phkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
