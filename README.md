@@ -1,9 +1,10 @@
-## Hello 👋, I'm Park Hongkyu
+## 반갑습니다 :laughing:
+언젠간 다 해결되겠지..
 
 ![phkaa GitHub stats](https://github-readme-stats.vercel.app/api?username=phkaa&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phkaa&layout=compact)
 
-## Languages and Tools:
+## :pencil: 기술스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
