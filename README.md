@@ -27,6 +27,11 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Yona](https://img.shields.io/badge/Yona-FF5722?style=for-the-badge&logo=yona&logoColor=white)
 
+## :trophy: 자격/어학/수상
+- 2024.06 정보처리기사 최종합격
+- 2019.06 메트라이프 생명 콜랩 5.0 특별 심사위원상
+- 2009.06 육군 병장 만기 전역
+
 <!--
 **phkaa/phkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
